@@ -6,12 +6,12 @@
    <elementGuidId>122f11f5-e1fe-403e-8124-683ee67146a3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/footer/div[1]/div/div[1]/a/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/header/div/div/a</value>
+         <key>CSS</key>
+         <value>a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fe63fb96-b556-443f-ae30-dc58845b370a</webElementGuid>
+      <webElementGuid>b5f81345-6b6b-421d-8fef-331a6017f6ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/login</value>
-      <webElementGuid>3958be0e-828f-4f68-b970-f041359c0b21</webElementGuid>
+      <webElementGuid>3c0545da-3ea9-48ef-a241-51859b8b2649</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign in</value>
-      <webElementGuid>e5b500bb-99b5-48cc-adee-467f38321f14</webElementGuid>
+      <webElementGuid>2d2cef0a-f8f2-4471-bca1-7b56c0525c3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/header[@class=&quot;py-2 bg-white&quot;]/div[@class=&quot;container lg:px-[110px]&quot;]/div[@class=&quot;flex justify-between items-center flex-wrap&quot;]/a[1]</value>
-      <webElementGuid>554f99ad-a773-47c4-9bf2-a1541dc09317</webElementGuid>
+      <webElementGuid>42551280-f3cd-4ffd-8ba2-ad1fbe60f2f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/div/div/a</value>
-      <webElementGuid>939f5b80-6633-4ec7-bdb5-996e551a5141</webElementGuid>
+      <webElementGuid>f4b32b92-185a-4c2e-9448-73d7ae031985</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sign in')]</value>
-      <webElementGuid>c604b300-de84-4e5c-89b6-d04df513af45</webElementGuid>
+      <webElementGuid>a7705421-f206-4fd7-9dfd-bba7d4b0028a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::a[1]</value>
-      <webElementGuid>2c2ea699-75a2-4f96-88b7-b49701ea2089</webElementGuid>
+      <webElementGuid>2f976c0a-36a4-4de8-b3c9-0b84546932d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::a[1]</value>
-      <webElementGuid>684d4cf3-b841-424b-a982-ec9092904604</webElementGuid>
+      <webElementGuid>8ff8354e-2f58-4cb2-9308-e1ca0ffe7ab3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Find information, knowledge, and communities.'])[1]/preceding::a[1]</value>
-      <webElementGuid>fbc6b905-6fbf-459f-8222-8a20d07183a7</webElementGuid>
+      <webElementGuid>1253c42d-b921-43d9-b095-e7e4412401b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download the App ->'])[1]/preceding::a[1]</value>
-      <webElementGuid>26f84fef-c5ae-4820-9971-eb95fd8e33e7</webElementGuid>
+      <webElementGuid>cacf3d34-62c6-4e7a-b402-1e59eda66b31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
-      <webElementGuid>5f767aee-9015-4065-9fe8-648f8103774d</webElementGuid>
+      <webElementGuid>f5eec914-ed40-4982-a34a-42fff2024280</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/login')]</value>
-      <webElementGuid>a93fc7a0-6539-4333-aac2-420a0b919a39</webElementGuid>
+      <webElementGuid>f850bd78-39b6-4628-8a15-ec93e0b7bd07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>d48de566-ce9f-4660-a35c-211d9b553423</webElementGuid>
+      <webElementGuid>202222dc-f889-4e92-bb60-2a207d28e5b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/login' and (text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>81c89883-c47a-493c-aaf9-4c20573763fb</webElementGuid>
+      <webElementGuid>8d0bec44-1ada-4eb0-b01d-270caf9338ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

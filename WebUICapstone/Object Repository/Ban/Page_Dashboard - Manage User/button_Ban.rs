@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ban</name>
+   <tag></tag>
+   <elementGuidId>0b91e325-8cc2-467a-bd3f-6cfa3aa11221</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[4]/div[4]/div/button[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div/div[4]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.bg-danger.border.border-red-600.px-3.py-2.rounded-lg.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[4]/div[4]/div/button[1]</value>
+      <webElementGuid>c4f733fd-34a2-4565-80a6-339a2972c1dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div/div[4]/div/button</value>
+      <webElementGuid>862ea30f-2f60-4d8b-979f-71ac09fe918c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ademrizki@gmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>39f643e3-8e90-4951-9ce4-53f24f52943a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ademrizki'])[1]/following::button[1]</value>
+      <webElementGuid>8e6096e9-16f1-463f-a7c2-55ab0c7d723f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bsnh25'])[1]/preceding::button[2]</value>
+      <webElementGuid>1b7e8cf2-52e6-4773-8905-10521aa72ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hemkodok@gmail.com'])[1]/preceding::button[2]</value>
+      <webElementGuid>4ddd7aca-86ad-4840-977d-b956147149d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ban']/parent::*</value>
+      <webElementGuid>7f06c072-3ecc-4c19-b405-c9a20a4d8a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>3aa28da7-3404-4101-a609-82960881c438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Ban' or . = 'Ban')]</value>
+      <webElementGuid>71769e78-7a84-4ec7-b2e4-8995f2a1bb75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Stop Activity</name>
+   <tag></tag>
+   <elementGuidId>4acdf8a5-6b35-40ee-be7d-534b424cfd2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[5]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>717a84cc-dbf5-4b71-8f4d-1b142b502628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white border border-danger py-1 px-3 rounded flex justify-center items-center cursor-pointer</value>
+      <webElementGuid>55cb7bfe-d068-430a-8728-f2a82b0772ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stop Activity</value>
+      <webElementGuid>4135e8b3-8f41-44ee-aeb3-79cf22c31973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;flex w-full&quot;]/div[@class=&quot;pt-5&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;users&quot;]/div[@class=&quot;w-[85vw] h-[90vh] rounded-lg relative&quot;]/div[@class=&quot;shadow-xl MuiDataGrid-root MuiDataGrid-root--densityStandard css-cg47hv&quot;]/div[@class=&quot;MuiDataGrid-main css-opb0c2&quot;]/div[2]/div[@class=&quot;MuiDataGrid-virtualScroller css-1grl8tv&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerContent MuiDataGrid-virtualScrollerContent--overflowed css-0&quot;]/div[@class=&quot;MuiDataGrid-virtualScrollerRenderZone css-1inm7gi&quot;]/div[@class=&quot;MuiDataGrid-row&quot;]/div[@class=&quot;MuiDataGrid-cell--withRenderer MuiDataGrid-cell MuiDataGrid-cell--textCenter MuiDataGrid-cell--editable&quot;]/div[@class=&quot;flex justify-between w-[100%]&quot;]/div[@class=&quot;bg-white border border-danger py-1 px-3 rounded flex justify-center items-center cursor-pointer&quot;]</value>
+      <webElementGuid>95d7402a-43f2-4547-9e7e-ac1d7719bb20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div[2]/div/div/div/div[3]/div[5]/div/div</value>
+      <webElementGuid>c1c77cf8-5ff0-4de6-9dcf-b70c2a9348fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Football'])[3]/following::div[4]</value>
+      <webElementGuid>0a09af47-b507-4859-8d5f-f2c37db8cbc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pildun'])[1]/following::div[6]</value>
+      <webElementGuid>575ea792-ae0e-4196-b556-6e631b462e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test create topic'])[1]/preceding::div[4]</value>
+      <webElementGuid>eaa3897d-b1a7-471c-8270-17e3458040b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[5]/div/div</value>
+      <webElementGuid>500b5760-a269-47d2-b7e8-0e73a9f3d61a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Stop Activity' or . = 'Stop Activity')]</value>
+      <webElementGuid>46adfba1-91bf-4e2e-b170-6b0397957a7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -12,11 +12,11 @@ Feature: Create Thread
     Examples:
       |title|content|photo |post   |
       |null |write  |null  |failed |
-      |write|null   |null  |failed |
-      |null |write  |upload|failed |
-      |write|write  |null  |failed |
-      |write|null   |upload|failed |
-      |write|write  |upload|success|
+#      |write|null   |null  |failed |
+#      |null |write  |upload|failed |
+      |write|write  |null  |success|
+#      |write|null   |upload|failed |
+#      |write|write  |upload|success|
 
   Scenario Outline: Create Thread with Title, content, and photo (with null)
     Given I am on the home page
@@ -26,5 +26,5 @@ Feature: Create Thread
     Then I will get the "<post>" post
     Examples:
       |title|content|photo |post        |
-      |null | null  | null |doesnt work |
-      |null |null   |upload|doesnt work |
+#      |null | null  | null |doesnt work |
+#      |null |null   |upload|doesnt work |

@@ -12,10 +12,10 @@ Feature: Login Account
     |email |password |result        |
     |valid |valid    |success       |
     |random|valid    |failed message|
-    |valid |random   |failed message|
-    |random|random   |failed message|
-    |null  |null     |failed message|
-    |random|null     |failed message|
-    |null  |random   |failed message|
-    |valid |null     |failed message|
-    |null  |valid    |failed message|
+#    |valid |random   |failed message|
+#    |random|random   |failed message|
+#    |null  |null     |failed message|
+#    |random|null     |failed message|
+#    |null  |random   |failed message|
+#    |valid |null     |failed message|
+#    |null  |valid    |failed message|
